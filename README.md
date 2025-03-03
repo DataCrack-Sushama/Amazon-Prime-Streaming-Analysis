@@ -71,8 +71,7 @@ Clone the repository:
 
 git clone https://github.com/yourusername/amazon-prime-analysis.git
 
-Install dependencies:
-
+Install dependencies: 
 pip install -r requirements.txt
 
 Open and run the Jupyter Notebook:
